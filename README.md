@@ -1,4 +1,6 @@
-Steps to reproduce `Callback was already called` in
+For https://github.com/webpack-contrib/mini-css-extract-plugin/issues/489
+
+Steps to reproduce `Callback was already called` in 
 [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)when you try to use it with 
 [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) to minimize css referenced in `<link href='...'/>`  
 
